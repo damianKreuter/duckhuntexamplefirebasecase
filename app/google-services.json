@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443718601962",
+    "firebase_url": "https://duck-hunt-example.firebaseio.com",
+    "project_id": "duck-hunt-example",
+    "storage_bucket": "duck-hunt-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443718601962:android:48d0762cfab72582c6db93",
+        "android_client_info": {
+          "package_name": "com.eshakorps.duck_hunt_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443718601962-cit7ntoj74lcq29cuga456hhuk9ruran.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshakorps.duck_hunt_example",
+            "certificate_hash": "fc99e057c9ee3cbe6a0b1034225fce494e346cb9"
+          }
+        },
+        {
+          "client_id": "443718601962-f04q6vv60lsg0panbqcri6beqpgpp9o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPX_9jnsdkD0Q9BzIa-s9bSi40VYSKd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443718601962-f04q6vv60lsg0panbqcri6beqpgpp9o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
